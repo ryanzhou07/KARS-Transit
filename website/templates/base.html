@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sidebar Example</title>
+    <link
+        rel="stylesheet"
+        href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        crossorigin="anonymous"
+    />
+    <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+        crossorigin="anonymous"
+    />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+            overflow-x: hidden; /* Prevent horizontal scroll */
+        }
+        .sidebar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 250px; /* Expanded width */
+            background-color: #343a40; /* Dark background */
+            padding-top: 20px;
+            transition: width 0.3s ease; /* Smooth transition */
+            z-index: 1000;
+            
+        }
+        .sidebar-closed {
+            width: 1px; /* Collapsed width */
+        }
+        .sidebar-closed a{
+            position: absolute;
+            left: -9999px
+        }
+        .sidebar a {
+            color: #ffffff;
+            padding: 15px;
+            text-decoration: none;
+            display: flex; /* Change display to flex */
+            align-items: center; /* Center items vertically */
+            transition: background 0.3s;
+        }
+        .sidebar a:hover {
+            background: #495057;
+        }
+        .main-content {
+            margin-left: 250px; /* Offset for the sidebar */
+            padding: 20px;
+            transition: margin-left 0.3s ease; /* Smooth transition for main content */
+        }
+        .sidebar-closed + .main-content {
+            margin-left: 60px; /* Adjust margin when sidebar is closed */
+        }
+        .sidebar-header {
+            display: flex;
+            align-items: center;
+            padding: 0 15px; /* Add padding */
+        }
+        .hamburger {
+            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+            margin-right:10px; /* Align to the right */
+        }
+        .line {
+            width: 30px;
+            height: 3px;
+            background-color: #ffffff;
+            margin: 3px 0;
+            transition: background-color 0.3s ease; /* Smooth transition */
+        }
+        hr {
+            border: 0;
+            border-top: 1px solid #ccc;
+            margin: 10px 0; /* Spacing around the line */
+        }
+        .sidebar-closed .line {
+            background-color: #030404; /* Change color when sidebar is closed */
+        }
+          iframe[iframetag] {
+            position: relative;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+          }
+          #map{
+            margin-left: 250px;
+            width: calc(200%-250);
+            height: 100%;
+            position: absolute;
+            z-index: 1;
+            transition:margin-left 0.3s ease;
+          }
+          .form-group {
+            max-height: 200px; /* Set max height */
+            overflow-y: auto; /* Enable scrolling */
+        }
+        sidebar-closed a span{
+            display:none;
+        }
+        .dropdown-item:hover{
+            background-color: #f8f9fa;
+        }
+        .dropdown-item{
+            font-size: 15px;
+        }
+        label[for="route"]{
+            font-size: 25px;
+            color: #ffffff;
+        }
+        <style>
+            /* Existing styles */
+
+            /* Add this style for larger font */
+            #route option {
+                font-size: 20px;
+            }x
+        .sidebar-header{
+            display: flex;
+            align-items: center;
+            padding: 0 15px;
+            font-size: 25px;
+        }
+        select{
+            width: 100%;
+            height: 40px;
+        }
+    </style>
+</head>
+<body>
+    <div class="sidebar" role="navigation">
+        <div class="sidebar-header">
+            <div class="hamburger sidebar-toggler">
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+            </div>
+            <a class="sidebar-brand" href="#">KARS Transit</a>
+        </div>
+        <hr>
+        <div class="container">
+        <form action="/" method="post">
+            <div class="form-group">
+                <label for="route">Choose a route:</label>
+                <select name="route" id="route" class="form-control" style="font-size: 15px;">
+                    <option value="">Select a route</option>
+                    <option value="1">Atlantic City Rail Line</option>
+                    <option value="2">BetMGM Meadowlands Rail Line</option>
+                    <option value="3">Montclair-Boonton Line(BNTN)</option>
+                    <option value="4">Montclair-Boonton Line(BNTNM)</option>
+                    <option value="5">Hudson-Bergen Light Rail</option>
+                    <option value="6">Main/Bergen County Line</option>
+                    <option value="7">Port Jervis Line</option>
+                    <option value="8">Morris and Essex Line8</option>
+                    <option value="9">Gladstone Branch</option>
+                    <option value="10">Northeast Corridor</option>
+                    <option value="11">North Jersey Coast Line(NJCL)</option>
+                    <option value="12">North Jersey Coast Line(NJCLL)</option>
+                    <option value="13">Newark Light Rail</option>
+                    <option value="14">Pascack Valley Line</option>
+                    <option value="15">Princeton Shuttle</option>
+                    <option value="16">Raritan Valley Line</option>
+                    <option value="17">Riverline Light Rail</option>
+                </select>
+            </div>
+            <button id="submitButton" type="submit" class="btn btn-primary">submit</button>
+        </form>
+        </div>
+        </div>
+    </div>
+    <div id="map" class = "main-content">
+        {{map_html|safe}}
+    </div>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" crossorigin="anonymous"></script>
+    <script>
+        const sidebar = document.querySelector('.sidebar');
+        const sidebarToggler = document.querySelector('.sidebar-toggler');
+        const mainContent = document.querySelector('.main-content');
+
+        sidebarToggler.addEventListener('click', () => {
+            sidebar.classList.toggle('sidebar-closed');
+            const submitButton= document.getElementById('submitButton');
+            // Adjust the main content margin accordingly
+            if (sidebar.classList.contains('sidebar-closed')) {
+                mainContent.style.marginLeft = '60px'; // Adjust margin when sidebar is closed
+                submitButton.style.display="none";
+            } else {
+                mainContent.style.marginLeft = '250px'; // Reset margin when sidebar is open
+                document.getElementById("a");
+                a.style.position="absolute";
+                a.style.right="9999px";
+                submitButton.style.display="incline-block";
+            }
+       
+    });
+    </script>
+    
+    <!--
+    <script>
+        setInterval(function() {
+            window.location.reload();
+        }, 30000); // Refresh every 30 seconds
+    </script>
+    -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.3/dist/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    </body>
+</html>

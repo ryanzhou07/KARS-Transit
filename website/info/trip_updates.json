@@ -1,0 +1,5507 @@
+{
+    "header": {
+      "gtfsRealtimeVersion": "2.0",
+      "timestamp": "1729966127"
+    },
+    "entity": [
+      {
+        "id": "0075",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736829",
+            "startTime": "13:21:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "6",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729963260"
+              },
+              "stopId": "63",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 8,
+              "departure": {
+                "delay": 256,
+                "time": "1729963890"
+              },
+              "stopId": "144",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 24,
+              "departure": {
+                "delay": 248,
+                "time": "1729965120"
+              },
+              "stopId": "139",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 30,
+              "departure": {
+                "delay": 168,
+                "time": "1729965510"
+              },
+              "stopId": "3",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 32,
+              "departure": {
+                "delay": 248,
+                "time": "1729965780"
+              },
+              "stopId": "135",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 34,
+              "departure": {
+                "delay": 231,
+                "time": "1729965960"
+              },
+              "stopId": "136",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 36,
+              "departure": {
+                "delay": 216,
+                "time": "1729966140"
+              },
+              "stopId": "78",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 39,
+              "departure": {
+                "delay": 161,
+                "time": "1729966350"
+              },
+              "stopId": "154",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 45,
+              "departure": {
+                "delay": 91,
+                "time": "1729966770"
+              },
+              "stopId": "147",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 47,
+              "departure": {
+                "delay": 54,
+                "time": "1729967070"
+              },
+              "stopId": "159",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 49,
+              "departure": {
+                "delay": 0,
+                "time": "1729967730"
+              },
+              "stopId": "57",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 55,
+              "departure": {
+                "delay": 0,
+                "time": "1729968630"
+              },
+              "stopId": "143",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 60,
+              "departure": {
+                "delay": 0,
+                "time": "1729969380"
+              },
+              "stopId": "26",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 64,
+              "departure": {
+                "delay": 0,
+                "time": "1729969830"
+              },
+              "stopId": "85",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 68,
+              "departure": {
+                "delay": 0,
+                "time": "1729970820"
+              },
+              "stopId": "118",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 74,
+              "departure": {
+                "delay": 0,
+                "time": "1729972140"
+              },
+              "stopId": "130",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "0075"
+          }
+        }
+      },
+      {
+        "id": "0527",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736278",
+            "startTime": "14:08:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "2",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729966080"
+              },
+              "stopId": "63",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 14,
+              "departure": {
+                "delay": 40,
+                "time": "1729967520"
+              },
+              "stopId": "111",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 18,
+              "departure": {
+                "delay": 0,
+                "time": "1729967910"
+              },
+              "stopId": "166",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 20,
+              "departure": {
+                "delay": 0,
+                "time": "1729968045"
+              },
+              "stopId": "19",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 22,
+              "departure": {
+                "delay": 0,
+                "time": "1729968180"
+              },
+              "stopId": "50",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 25,
+              "departure": {
+                "delay": 0,
+                "time": "1729968300"
+              },
+              "stopId": "15",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "0527"
+          }
+        }
+      },
+      {
+        "id": "0723",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736855",
+            "startTime": "13:15:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "8",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729962900"
+              },
+              "stopId": "155",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 4,
+              "departure": {
+                "delay": 285,
+                "time": "1729963140"
+              },
+              "stopId": "108",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 7,
+              "departure": {
+                "delay": 228,
+                "time": "1729963425"
+              },
+              "stopId": "101",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 10,
+              "departure": {
+                "delay": 7,
+                "time": "1729963860"
+              },
+              "stopId": "17",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 12,
+              "departure": {
+                "delay": 201,
+                "time": "1729964010"
+              },
+              "stopId": "48",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 15,
+              "departure": {
+                "delay": 127,
+                "time": "1729964160"
+              },
+              "stopId": "153",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 18,
+              "departure": {
+                "delay": 130,
+                "time": "1729964325"
+              },
+              "stopId": "87",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 21,
+              "departure": {
+                "delay": 117,
+                "time": "1729964505"
+              },
+              "stopId": "76",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 23,
+              "departure": {
+                "delay": 360,
+                "time": "1729964685"
+              },
+              "stopId": "13",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 26,
+              "departure": {
+                "delay": 254,
+                "time": "1729964835"
+              },
+              "stopId": "18",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 29,
+              "departure": {
+                "delay": 278,
+                "time": "1729965300"
+              },
+              "stopId": "44",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 33,
+              "departure": {
+                "delay": 97,
+                "time": "1729965765"
+              },
+              "stopId": "122",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 36,
+              "departure": {
+                "delay": 0,
+                "time": "1729966020"
+              },
+              "stopId": "49",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "0723"
+          }
+        }
+      },
+      {
+        "id": "0725",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736857",
+            "startTime": "14:15:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "8",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729966500"
+              },
+              "stopId": "155",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 4,
+              "departure": {
+                "delay": 0,
+                "time": "1729966740"
+              },
+              "stopId": "108",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 7,
+              "departure": {
+                "delay": 0,
+                "time": "1729967025"
+              },
+              "stopId": "101",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 10,
+              "departure": {
+                "delay": 0,
+                "time": "1729967460"
+              },
+              "stopId": "17",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 12,
+              "departure": {
+                "delay": 0,
+                "time": "1729967610"
+              },
+              "stopId": "48",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 15,
+              "departure": {
+                "delay": 0,
+                "time": "1729967760"
+              },
+              "stopId": "153",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 18,
+              "departure": {
+                "delay": 0,
+                "time": "1729967925"
+              },
+              "stopId": "87",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 21,
+              "departure": {
+                "delay": 0,
+                "time": "1729968105"
+              },
+              "stopId": "76",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 23,
+              "departure": {
+                "delay": 0,
+                "time": "1729968285"
+              },
+              "stopId": "13",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 26,
+              "departure": {
+                "delay": 0,
+                "time": "1729968435"
+              },
+              "stopId": "18",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 29,
+              "departure": {
+                "delay": 0,
+                "time": "1729968900"
+              },
+              "stopId": "44",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 33,
+              "departure": {
+                "delay": 0,
+                "time": "1729969365"
+              },
+              "stopId": "122",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 36,
+              "departure": {
+                "delay": 0,
+                "time": "1729969620"
+              },
+              "stopId": "49",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "0725"
+          }
+        }
+      },
+      {
+        "id": "0726",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736859",
+            "startTime": "13:50:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "8",
+            "directionId": 0
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729965000"
+              },
+              "stopId": "49",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 3,
+              "departure": {
+                "delay": 22,
+                "time": "1729965225"
+              },
+              "stopId": "122",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 7,
+              "departure": {
+                "delay": 55,
+                "time": "1729965585"
+              },
+              "stopId": "44",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 10,
+              "departure": {
+                "delay": 117,
+                "time": "1729965960"
+              },
+              "stopId": "18",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 13,
+              "departure": {
+                "delay": 175,
+                "time": "1729966110"
+              },
+              "stopId": "13",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 15,
+              "departure": {
+                "delay": 78,
+                "time": "1729966290"
+              },
+              "stopId": "76",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 18,
+              "departure": {
+                "delay": 85,
+                "time": "1729966470"
+              },
+              "stopId": "87",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 21,
+              "departure": {
+                "delay": 55,
+                "time": "1729966635"
+              },
+              "stopId": "153",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 24,
+              "departure": {
+                "delay": 23,
+                "time": "1729966785"
+              },
+              "stopId": "48",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 26,
+              "departure": {
+                "delay": 10,
+                "time": "1729966965"
+              },
+              "stopId": "17",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 29,
+              "departure": {
+                "delay": 0,
+                "time": "1729967280"
+              },
+              "stopId": "101",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 32,
+              "departure": {
+                "delay": 0,
+                "time": "1729967490"
+              },
+              "stopId": "108",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 36,
+              "departure": {
+                "delay": 0,
+                "time": "1729967760"
+              },
+              "stopId": "155",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "0726"
+          }
+        }
+      },
+      {
+        "id": "1716",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736146",
+            "startTime": "13:07:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "6",
+            "directionId": 0
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 3,
+              "departure": {
+                "delay": 0,
+                "time": "1729962420"
+              },
+              "stopId": "154",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 6,
+              "departure": {
+                "delay": 27,
+                "time": "1729962615"
+              },
+              "stopId": "78",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 8,
+              "departure": {
+                "delay": 29,
+                "time": "1729962810"
+              },
+              "stopId": "136",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 10,
+              "departure": {
+                "delay": 6,
+                "time": "1729963020"
+              },
+              "stopId": "135",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 12,
+              "departure": {
+                "delay": 13,
+                "time": "1729963245"
+              },
+              "stopId": "3",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 15,
+              "departure": {
+                "delay": 15,
+                "time": "1729963425"
+              },
+              "stopId": "162",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 17,
+              "departure": {
+                "delay": 24,
+                "time": "1729963620"
+              },
+              "stopId": "64",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 20,
+              "departure": {
+                "delay": 20,
+                "time": "1729963815"
+              },
+              "stopId": "139",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 23,
+              "departure": {
+                "delay": 29,
+                "time": "1729964010"
+              },
+              "stopId": "52",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 25,
+              "departure": {
+                "delay": 28,
+                "time": "1729964220"
+              },
+              "stopId": "58",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 28,
+              "departure": {
+                "delay": 19,
+                "time": "1729964475"
+              },
+              "stopId": "121",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 30,
+              "departure": {
+                "delay": 0,
+                "time": "1729964880"
+              },
+              "stopId": "29",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 33,
+              "departure": {
+                "delay": 0,
+                "time": "1729965090"
+              },
+              "stopId": "120",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 35,
+              "departure": {
+                "delay": 0,
+                "time": "1729965285"
+              },
+              "stopId": "32",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 37,
+              "departure": {
+                "delay": 0,
+                "time": "1729965465"
+              },
+              "stopId": "75",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 39,
+              "departure": {
+                "delay": 0,
+                "time": "1729965600"
+              },
+              "stopId": "66",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 44,
+              "departure": {
+                "delay": 0,
+                "time": "1729966020"
+              },
+              "stopId": "144",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 52,
+              "departure": {
+                "delay": 0,
+                "time": "1729966740"
+              },
+              "stopId": "63",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "1716"
+          }
+        }
+      },
+      {
+        "id": "1718",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736147",
+            "startTime": "14:07:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "6",
+            "directionId": 0
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 3,
+              "departure": {
+                "delay": 0,
+                "time": "1729966020"
+              },
+              "stopId": "154",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 6,
+              "departure": {
+                "delay": 40,
+                "time": "1729966215"
+              },
+              "stopId": "78",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 8,
+              "departure": {
+                "delay": 27,
+                "time": "1729966410"
+              },
+              "stopId": "136",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 10,
+              "departure": {
+                "delay": 0,
+                "time": "1729966620"
+              },
+              "stopId": "135",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 12,
+              "departure": {
+                "delay": 0,
+                "time": "1729966845"
+              },
+              "stopId": "3",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 15,
+              "departure": {
+                "delay": 0,
+                "time": "1729967025"
+              },
+              "stopId": "162",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 17,
+              "departure": {
+                "delay": 0,
+                "time": "1729967220"
+              },
+              "stopId": "64",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 20,
+              "departure": {
+                "delay": 0,
+                "time": "1729967415"
+              },
+              "stopId": "139",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 23,
+              "departure": {
+                "delay": 0,
+                "time": "1729967610"
+              },
+              "stopId": "52",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 25,
+              "departure": {
+                "delay": 0,
+                "time": "1729967820"
+              },
+              "stopId": "58",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 28,
+              "departure": {
+                "delay": 0,
+                "time": "1729968075"
+              },
+              "stopId": "121",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 30,
+              "departure": {
+                "delay": 0,
+                "time": "1729968480"
+              },
+              "stopId": "29",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 33,
+              "departure": {
+                "delay": 0,
+                "time": "1729968690"
+              },
+              "stopId": "120",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 35,
+              "departure": {
+                "delay": 0,
+                "time": "1729968885"
+              },
+              "stopId": "32",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 37,
+              "departure": {
+                "delay": 0,
+                "time": "1729969065"
+              },
+              "stopId": "75",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 39,
+              "departure": {
+                "delay": 0,
+                "time": "1729969200"
+              },
+              "stopId": "66",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 44,
+              "departure": {
+                "delay": 0,
+                "time": "1729969620"
+              },
+              "stopId": "144",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 52,
+              "departure": {
+                "delay": 0,
+                "time": "1729970340"
+              },
+              "stopId": "63",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "1718"
+          }
+        }
+      },
+      {
+        "id": "1719",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736133",
+            "startTime": "13:24:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "6",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729963440"
+              },
+              "stopId": "63",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 8,
+              "departure": {
+                "delay": 197,
+                "time": "1729964100"
+              },
+              "stopId": "144",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 13,
+              "departure": {
+                "delay": 234,
+                "time": "1729964460"
+              },
+              "stopId": "66",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 15,
+              "departure": {
+                "delay": 254,
+                "time": "1729964595"
+              },
+              "stopId": "75",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 17,
+              "departure": {
+                "delay": 286,
+                "time": "1729964775"
+              },
+              "stopId": "32",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 19,
+              "departure": {
+                "delay": 269,
+                "time": "1729964970"
+              },
+              "stopId": "120",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 22,
+              "departure": {
+                "delay": 295,
+                "time": "1729965180"
+              },
+              "stopId": "29",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 24,
+              "departure": {
+                "delay": 321,
+                "time": "1729965600"
+              },
+              "stopId": "121",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 27,
+              "departure": {
+                "delay": 325,
+                "time": "1729965840"
+              },
+              "stopId": "58",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 29,
+              "departure": {
+                "delay": 303,
+                "time": "1729966065"
+              },
+              "stopId": "52",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 32,
+              "departure": {
+                "delay": 289,
+                "time": "1729966275"
+              },
+              "stopId": "139",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 35,
+              "departure": {
+                "delay": 289,
+                "time": "1729966455"
+              },
+              "stopId": "64",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 37,
+              "departure": {
+                "delay": 280,
+                "time": "1729966650"
+              },
+              "stopId": "162",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 40,
+              "departure": {
+                "delay": 193,
+                "time": "1729966830"
+              },
+              "stopId": "3",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 42,
+              "departure": {
+                "delay": 220,
+                "time": "1729967070"
+              },
+              "stopId": "135",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 44,
+              "departure": {
+                "delay": 179,
+                "time": "1729967265"
+              },
+              "stopId": "136",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 46,
+              "departure": {
+                "delay": 146,
+                "time": "1729967460"
+              },
+              "stopId": "78",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 49,
+              "departure": {
+                "delay": 0,
+                "time": "1729967940"
+              },
+              "stopId": "154",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "1719"
+          }
+        }
+      },
+      {
+        "id": "1721",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736134",
+            "startTime": "14:24:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "6",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729967040"
+              },
+              "stopId": "63",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 8,
+              "departure": {
+                "delay": 0,
+                "time": "1729967700"
+              },
+              "stopId": "144",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 13,
+              "departure": {
+                "delay": 0,
+                "time": "1729968060"
+              },
+              "stopId": "66",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 15,
+              "departure": {
+                "delay": 0,
+                "time": "1729968195"
+              },
+              "stopId": "75",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 17,
+              "departure": {
+                "delay": 0,
+                "time": "1729968375"
+              },
+              "stopId": "32",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 19,
+              "departure": {
+                "delay": 0,
+                "time": "1729968570"
+              },
+              "stopId": "120",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 22,
+              "departure": {
+                "delay": 0,
+                "time": "1729968780"
+              },
+              "stopId": "29",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 24,
+              "departure": {
+                "delay": 0,
+                "time": "1729969200"
+              },
+              "stopId": "121",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 27,
+              "departure": {
+                "delay": 0,
+                "time": "1729969440"
+              },
+              "stopId": "58",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 29,
+              "departure": {
+                "delay": 0,
+                "time": "1729969665"
+              },
+              "stopId": "52",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 32,
+              "departure": {
+                "delay": 0,
+                "time": "1729969875"
+              },
+              "stopId": "139",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 35,
+              "departure": {
+                "delay": 0,
+                "time": "1729970055"
+              },
+              "stopId": "64",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 37,
+              "departure": {
+                "delay": 0,
+                "time": "1729970250"
+              },
+              "stopId": "162",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 40,
+              "departure": {
+                "delay": 0,
+                "time": "1729970430"
+              },
+              "stopId": "3",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 42,
+              "departure": {
+                "delay": 0,
+                "time": "1729970670"
+              },
+              "stopId": "135",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 44,
+              "departure": {
+                "delay": 0,
+                "time": "1729970865"
+              },
+              "stopId": "136",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 46,
+              "departure": {
+                "delay": 0,
+                "time": "1729971060"
+              },
+              "stopId": "78",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 49,
+              "departure": {
+                "delay": 0,
+                "time": "1729971540"
+              },
+              "stopId": "154",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "1721"
+          }
+        }
+      },
+      {
+        "id": "1866",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736157",
+            "startTime": "13:34:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "5",
+            "directionId": 0
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 3,
+              "departure": {
+                "delay": 26,
+                "time": "1729964040"
+              },
+              "stopId": "162",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 5,
+              "departure": {
+                "delay": 58,
+                "time": "1729964235"
+              },
+              "stopId": "64",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 8,
+              "departure": {
+                "delay": 95,
+                "time": "1729964430"
+              },
+              "stopId": "139",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 11,
+              "departure": {
+                "delay": 115,
+                "time": "1729964640"
+              },
+              "stopId": "51",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 13,
+              "departure": {
+                "delay": 113,
+                "time": "1729964865"
+              },
+              "stopId": "133",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 15,
+              "departure": {
+                "delay": 126,
+                "time": "1729965075"
+              },
+              "stopId": "25",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 18,
+              "departure": {
+                "delay": 110,
+                "time": "1729965345"
+              },
+              "stopId": "128",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 20,
+              "departure": {
+                "delay": 114,
+                "time": "1729965540"
+              },
+              "stopId": "46",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 22,
+              "departure": {
+                "delay": 127,
+                "time": "1729965720"
+              },
+              "stopId": "168",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 25,
+              "departure": {
+                "delay": 101,
+                "time": "1729966005"
+              },
+              "stopId": "142",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 30,
+              "departure": {
+                "delay": 0,
+                "time": "1729966560"
+              },
+              "stopId": "144",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 38,
+              "departure": {
+                "delay": 0,
+                "time": "1729967280"
+              },
+              "stopId": "63",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "1866"
+          }
+        }
+      },
+      {
+        "id": "1868",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736158",
+            "startTime": "14:34:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "5",
+            "directionId": 0
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 3,
+              "departure": {
+                "delay": 0,
+                "time": "1729967640"
+              },
+              "stopId": "162",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 5,
+              "departure": {
+                "delay": 0,
+                "time": "1729967835"
+              },
+              "stopId": "64",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 8,
+              "departure": {
+                "delay": 0,
+                "time": "1729968030"
+              },
+              "stopId": "139",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 11,
+              "departure": {
+                "delay": 0,
+                "time": "1729968240"
+              },
+              "stopId": "51",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 13,
+              "departure": {
+                "delay": 0,
+                "time": "1729968465"
+              },
+              "stopId": "133",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 15,
+              "departure": {
+                "delay": 0,
+                "time": "1729968675"
+              },
+              "stopId": "25",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 18,
+              "departure": {
+                "delay": 0,
+                "time": "1729968945"
+              },
+              "stopId": "128",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 20,
+              "departure": {
+                "delay": 0,
+                "time": "1729969140"
+              },
+              "stopId": "46",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 22,
+              "departure": {
+                "delay": 0,
+                "time": "1729969320"
+              },
+              "stopId": "168",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 25,
+              "departure": {
+                "delay": 0,
+                "time": "1729969605"
+              },
+              "stopId": "142",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 30,
+              "departure": {
+                "delay": 0,
+                "time": "1729970160"
+              },
+              "stopId": "144",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 38,
+              "departure": {
+                "delay": 0,
+                "time": "1729970880"
+              },
+              "stopId": "63",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "1868"
+          }
+        }
+      },
+      {
+        "id": "1869",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736118",
+            "startTime": "13:16:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "5",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729962960"
+              },
+              "stopId": "63",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 8,
+              "departure": {
+                "delay": 121,
+                "time": "1729963620"
+              },
+              "stopId": "144",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 13,
+              "departure": {
+                "delay": 234,
+                "time": "1729964100"
+              },
+              "stopId": "142",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 16,
+              "departure": {
+                "delay": 221,
+                "time": "1729964340"
+              },
+              "stopId": "168",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 18,
+              "departure": {
+                "delay": 226,
+                "time": "1729964505"
+              },
+              "stopId": "46",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 20,
+              "departure": {
+                "delay": 254,
+                "time": "1729964685"
+              },
+              "stopId": "128",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 23,
+              "departure": {
+                "delay": 222,
+                "time": "1729964955"
+              },
+              "stopId": "25",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 25,
+              "departure": {
+                "delay": 215,
+                "time": "1729965150"
+              },
+              "stopId": "133",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 27,
+              "departure": {
+                "delay": 204,
+                "time": "1729965375"
+              },
+              "stopId": "51",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 30,
+              "departure": {
+                "delay": 454,
+                "time": "1729965585"
+              },
+              "stopId": "139",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 33,
+              "departure": {
+                "delay": 458,
+                "time": "1729965765"
+              },
+              "stopId": "64",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 35,
+              "departure": {
+                "delay": 446,
+                "time": "1729966020"
+              },
+              "stopId": "162",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "1869"
+          }
+        }
+      },
+      {
+        "id": "1871",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736119",
+            "startTime": "14:16:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "5",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729966560"
+              },
+              "stopId": "63",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 8,
+              "departure": {
+                "delay": 0,
+                "time": "1729967220"
+              },
+              "stopId": "144",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 13,
+              "departure": {
+                "delay": 0,
+                "time": "1729967700"
+              },
+              "stopId": "142",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 16,
+              "departure": {
+                "delay": 0,
+                "time": "1729967940"
+              },
+              "stopId": "168",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 18,
+              "departure": {
+                "delay": 0,
+                "time": "1729968105"
+              },
+              "stopId": "46",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 20,
+              "departure": {
+                "delay": 0,
+                "time": "1729968285"
+              },
+              "stopId": "128",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 23,
+              "departure": {
+                "delay": 0,
+                "time": "1729968555"
+              },
+              "stopId": "25",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 25,
+              "departure": {
+                "delay": 0,
+                "time": "1729968750"
+              },
+              "stopId": "133",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 27,
+              "departure": {
+                "delay": 0,
+                "time": "1729968975"
+              },
+              "stopId": "51",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 30,
+              "departure": {
+                "delay": 0,
+                "time": "1729969185"
+              },
+              "stopId": "139",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 33,
+              "departure": {
+                "delay": 0,
+                "time": "1729969365"
+              },
+              "stopId": "64",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 35,
+              "departure": {
+                "delay": 0,
+                "time": "1729969620"
+              },
+              "stopId": "162",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "1871"
+          }
+        }
+      },
+      {
+        "id": "1936",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "",
+            "startTime": "14:15:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "ADDED",
+            "routeId": "",
+            "directionId": 0
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729966500"
+              },
+              "stopId": "81",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 2,
+              "departure": {
+                "delay": 0,
+                "time": "1729967280"
+              },
+              "stopId": "144",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "1936"
+          }
+        }
+      },
+      {
+        "id": "2114",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736889",
+            "startTime": "14:03:15",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "13",
+            "directionId": 0
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 3,
+              "departure": {
+                "delay": 4,
+                "time": "1729965795"
+              },
+              "stopId": "152",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 5,
+              "departure": {
+                "delay": 53,
+                "time": "1729966095"
+              },
+              "stopId": "102",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 9,
+              "departure": {
+                "delay": 26,
+                "time": "1729966365"
+              },
+              "stopId": "123",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 11,
+              "departure": {
+                "delay": 0,
+                "time": "1729966560"
+              },
+              "stopId": "91",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 15,
+              "departure": {
+                "delay": 0,
+                "time": "1729966695"
+              },
+              "stopId": "119",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 19,
+              "departure": {
+                "delay": 0,
+                "time": "1729966830"
+              },
+              "stopId": "175",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 21,
+              "departure": {
+                "delay": 0,
+                "time": "1729967025"
+              },
+              "stopId": "62",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 23,
+              "departure": {
+                "delay": 0,
+                "time": "1729967190"
+              },
+              "stopId": "170",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 25,
+              "departure": {
+                "delay": 0,
+                "time": "1729967385"
+              },
+              "stopId": "41",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 29,
+              "departure": {
+                "delay": 0,
+                "time": "1729967580"
+              },
+              "stopId": "116",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 31,
+              "departure": {
+                "delay": 0,
+                "time": "1729967790"
+              },
+              "stopId": "140",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 33,
+              "departure": {
+                "delay": 0,
+                "time": "1729968060"
+              },
+              "stopId": "105",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 37,
+              "departure": {
+                "delay": 0,
+                "time": "1729968480"
+              },
+              "stopId": "5",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 39,
+              "departure": {
+                "delay": 0,
+                "time": "1729968660"
+              },
+              "stopId": "42",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 41,
+              "departure": {
+                "delay": 0,
+                "time": "1729968855"
+              },
+              "stopId": "156",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 45,
+              "departure": {
+                "delay": 0,
+                "time": "1729969065"
+              },
+              "stopId": "176",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 54,
+              "departure": {
+                "delay": 0,
+                "time": "1729969680"
+              },
+              "stopId": "144",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 62,
+              "departure": {
+                "delay": 0,
+                "time": "1729970400"
+              },
+              "stopId": "63",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "2114"
+          }
+        }
+      },
+      {
+        "id": "2115",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736890",
+            "startTime": "14:13:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "13",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729966380"
+              },
+              "stopId": "63",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 8,
+              "departure": {
+                "delay": 0,
+                "time": "1729967010"
+              },
+              "stopId": "144",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 16,
+              "departure": {
+                "delay": 0,
+                "time": "1729967580"
+              },
+              "stopId": "176",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 20,
+              "departure": {
+                "delay": 0,
+                "time": "1729967790"
+              },
+              "stopId": "156",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 22,
+              "departure": {
+                "delay": 0,
+                "time": "1729967985"
+              },
+              "stopId": "42",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 24,
+              "departure": {
+                "delay": 0,
+                "time": "1729968150"
+              },
+              "stopId": "5",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 28,
+              "departure": {
+                "delay": 0,
+                "time": "1729968375"
+              },
+              "stopId": "105",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 30,
+              "departure": {
+                "delay": 0,
+                "time": "1729968630"
+              },
+              "stopId": "140",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 32,
+              "departure": {
+                "delay": 0,
+                "time": "1729968825"
+              },
+              "stopId": "116",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 36,
+              "departure": {
+                "delay": 0,
+                "time": "1729969020"
+              },
+              "stopId": "41",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 38,
+              "departure": {
+                "delay": 0,
+                "time": "1729969215"
+              },
+              "stopId": "170",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 40,
+              "departure": {
+                "delay": 0,
+                "time": "1729969380"
+              },
+              "stopId": "62",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 42,
+              "departure": {
+                "delay": 0,
+                "time": "1729969575"
+              },
+              "stopId": "175",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 46,
+              "departure": {
+                "delay": 0,
+                "time": "1729969710"
+              },
+              "stopId": "119",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 50,
+              "departure": {
+                "delay": 0,
+                "time": "1729969845"
+              },
+              "stopId": "91",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 52,
+              "departure": {
+                "delay": 0,
+                "time": "1729970040"
+              },
+              "stopId": "123",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 56,
+              "departure": {
+                "delay": 0,
+                "time": "1729970310"
+              },
+              "stopId": "102",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 58,
+              "departure": {
+                "delay": 0,
+                "time": "1729970730"
+              },
+              "stopId": "152",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "2115"
+          }
+        }
+      },
+      {
+        "id": "4242",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1737172",
+            "startTime": "14:00:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "14",
+            "directionId": 0
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729965600"
+              },
+              "stopId": "131",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 2,
+              "departure": {
+                "delay": 0,
+                "time": "1729965900"
+              },
+              "stopId": "132",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "4242"
+          }
+        }
+      },
+      {
+        "id": "4245",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1737772",
+            "startTime": "14:35:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "14",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729967700"
+              },
+              "stopId": "132",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 2,
+              "departure": {
+                "delay": 0,
+                "time": "1729968000"
+              },
+              "stopId": "131",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "4245"
+          }
+        }
+      },
+      {
+        "id": "4677",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736918",
+            "startTime": "12:38:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "1",
+            "directionId": 0
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729960680"
+              },
+              "stopId": "126",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 11,
+              "departure": {
+                "delay": 357,
+                "time": "1729961955"
+              },
+              "stopId": "124",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 16,
+              "departure": {
+                "delay": 478,
+                "time": "1729962390"
+              },
+              "stopId": "28",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 21,
+              "departure": {
+                "delay": 357,
+                "time": "1729963185"
+              },
+              "stopId": "71",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 25,
+              "departure": {
+                "delay": 309,
+                "time": "1729963620"
+              },
+              "stopId": "8",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 31,
+              "departure": {
+                "delay": 141,
+                "time": "1729964415"
+              },
+              "stopId": "56",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 35,
+              "departure": {
+                "delay": 97,
+                "time": "1729965045"
+              },
+              "stopId": "38",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 40,
+              "departure": {
+                "delay": 279,
+                "time": "1729965660"
+              },
+              "stopId": "2",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 45,
+              "departure": {
+                "delay": 180,
+                "time": "1729966440"
+              },
+              "stopId": "9",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "4677"
+          }
+        }
+      },
+      {
+        "id": "4678",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736919",
+            "startTime": "13:37:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "1",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729964220"
+              },
+              "stopId": "9",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 5,
+              "departure": {
+                "delay": 0,
+                "time": "1729964895"
+              },
+              "stopId": "2",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 10,
+              "departure": {
+                "delay": 325,
+                "time": "1729965690"
+              },
+              "stopId": "38",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 14,
+              "departure": {
+                "delay": 311,
+                "time": "1729966335"
+              },
+              "stopId": "56",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 20,
+              "departure": {
+                "delay": 264,
+                "time": "1729967130"
+              },
+              "stopId": "8",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 24,
+              "departure": {
+                "delay": 251,
+                "time": "1729967565"
+              },
+              "stopId": "71",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 29,
+              "departure": {
+                "delay": 82,
+                "time": "1729968300"
+              },
+              "stopId": "28",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 34,
+              "departure": {
+                "delay": 6,
+                "time": "1729968735"
+              },
+              "stopId": "124",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 45,
+              "departure": {
+                "delay": 0,
+                "time": "1729970220"
+              },
+              "stopId": "126",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "4678"
+          }
+        }
+      },
+      {
+        "id": "4679",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736920",
+            "startTime": "14:31:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "1",
+            "directionId": 0
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729967460"
+              },
+              "stopId": "126",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 11,
+              "departure": {
+                "delay": 0,
+                "time": "1729968735"
+              },
+              "stopId": "124",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 16,
+              "departure": {
+                "delay": 0,
+                "time": "1729969155"
+              },
+              "stopId": "28",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 21,
+              "departure": {
+                "delay": 0,
+                "time": "1729969905"
+              },
+              "stopId": "71",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 25,
+              "departure": {
+                "delay": 0,
+                "time": "1729970340"
+              },
+              "stopId": "8",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 31,
+              "departure": {
+                "delay": 0,
+                "time": "1729971150"
+              },
+              "stopId": "56",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 35,
+              "departure": {
+                "delay": 0,
+                "time": "1729971780"
+              },
+              "stopId": "38",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 40,
+              "departure": {
+                "delay": 0,
+                "time": "1729972395"
+              },
+              "stopId": "2",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 45,
+              "departure": {
+                "delay": 0,
+                "time": "1729973160"
+              },
+              "stopId": "9",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "4679"
+          }
+        }
+      },
+      {
+        "id": "5520",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1744978",
+            "startTime": "13:14:30",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "15",
+            "directionId": 0
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 3,
+              "departure": {
+                "delay": 0,
+                "time": "1729962870"
+              },
+              "stopId": "137",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 5,
+              "departure": {
+                "delay": 36,
+                "time": "1729963035"
+              },
+              "stopId": "148",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 9,
+              "departure": {
+                "delay": 104,
+                "time": "1729963305"
+              },
+              "stopId": "24",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 11,
+              "departure": {
+                "delay": 145,
+                "time": "1729963455"
+              },
+              "stopId": "21",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 15,
+              "departure": {
+                "delay": 149,
+                "time": "1729963815"
+              },
+              "stopId": "35",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 18,
+              "departure": {
+                "delay": 177,
+                "time": "1729964130"
+              },
+              "stopId": "127",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 21,
+              "departure": {
+                "delay": 201,
+                "time": "1729964325"
+              },
+              "stopId": "104",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 23,
+              "departure": {
+                "delay": 184,
+                "time": "1729964550"
+              },
+              "stopId": "43",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 26,
+              "departure": {
+                "delay": 215,
+                "time": "1729964835"
+              },
+              "stopId": "169",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 29,
+              "departure": {
+                "delay": 155,
+                "time": "1729965045"
+              },
+              "stopId": "47",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 31,
+              "departure": {
+                "delay": 183,
+                "time": "1729965240"
+              },
+              "stopId": "31",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 35,
+              "departure": {
+                "delay": 127,
+                "time": "1729965555"
+              },
+              "stopId": "141",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 38,
+              "departure": {
+                "delay": 132,
+                "time": "1729965795"
+              },
+              "stopId": "160",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 45,
+              "departure": {
+                "delay": 172,
+                "time": "1729966500"
+              },
+              "stopId": "112",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "5520"
+          }
+        }
+      },
+      {
+        "id": "5522",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1744980",
+            "startTime": "14:14:30",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "15",
+            "directionId": 0
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 3,
+              "departure": {
+                "delay": 0,
+                "time": "1729966470"
+              },
+              "stopId": "137",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 5,
+              "departure": {
+                "delay": 0,
+                "time": "1729966635"
+              },
+              "stopId": "148",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 9,
+              "departure": {
+                "delay": 0,
+                "time": "1729966905"
+              },
+              "stopId": "24",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 11,
+              "departure": {
+                "delay": 0,
+                "time": "1729967055"
+              },
+              "stopId": "21",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 15,
+              "departure": {
+                "delay": 0,
+                "time": "1729967415"
+              },
+              "stopId": "35",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 18,
+              "departure": {
+                "delay": 0,
+                "time": "1729967730"
+              },
+              "stopId": "127",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 21,
+              "departure": {
+                "delay": 0,
+                "time": "1729967925"
+              },
+              "stopId": "104",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 23,
+              "departure": {
+                "delay": 0,
+                "time": "1729968150"
+              },
+              "stopId": "43",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 26,
+              "departure": {
+                "delay": 0,
+                "time": "1729968435"
+              },
+              "stopId": "169",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 29,
+              "departure": {
+                "delay": 0,
+                "time": "1729968645"
+              },
+              "stopId": "47",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 31,
+              "departure": {
+                "delay": 0,
+                "time": "1729968840"
+              },
+              "stopId": "31",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 35,
+              "departure": {
+                "delay": 0,
+                "time": "1729969155"
+              },
+              "stopId": "141",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 38,
+              "departure": {
+                "delay": 0,
+                "time": "1729969395"
+              },
+              "stopId": "160",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 45,
+              "departure": {
+                "delay": 0,
+                "time": "1729970100"
+              },
+              "stopId": "112",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "5522"
+          }
+        }
+      },
+      {
+        "id": "5523",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1744981",
+            "startTime": "13:38:15",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "15",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729964295"
+              },
+              "stopId": "112",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 7,
+              "departure": {
+                "delay": 0,
+                "time": "1729964835"
+              },
+              "stopId": "160",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 10,
+              "departure": {
+                "delay": 60,
+                "time": "1729965045"
+              },
+              "stopId": "141",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 14,
+              "departure": {
+                "delay": 188,
+                "time": "1729965330"
+              },
+              "stopId": "31",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 16,
+              "departure": {
+                "delay": 123,
+                "time": "1729965510"
+              },
+              "stopId": "47",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 19,
+              "departure": {
+                "delay": 160,
+                "time": "1729965705"
+              },
+              "stopId": "169",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 22,
+              "departure": {
+                "delay": 153,
+                "time": "1729965975"
+              },
+              "stopId": "43",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 24,
+              "departure": {
+                "delay": 88,
+                "time": "1729966185"
+              },
+              "stopId": "104",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 27,
+              "departure": {
+                "delay": 37,
+                "time": "1729966380"
+              },
+              "stopId": "127",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 30,
+              "departure": {
+                "delay": 1,
+                "time": "1729966680"
+              },
+              "stopId": "35",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 34,
+              "departure": {
+                "delay": 0,
+                "time": "1729967025"
+              },
+              "stopId": "21",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 36,
+              "departure": {
+                "delay": 0,
+                "time": "1729967205"
+              },
+              "stopId": "24",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 40,
+              "departure": {
+                "delay": 0,
+                "time": "1729967520"
+              },
+              "stopId": "148",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 42,
+              "departure": {
+                "delay": 0,
+                "time": "1729968150"
+              },
+              "stopId": "137",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "5523"
+          }
+        }
+      },
+      {
+        "id": "5525",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1744983",
+            "startTime": "14:38:15",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "15",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729967895"
+              },
+              "stopId": "112",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 7,
+              "departure": {
+                "delay": 0,
+                "time": "1729968435"
+              },
+              "stopId": "160",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 10,
+              "departure": {
+                "delay": 0,
+                "time": "1729968645"
+              },
+              "stopId": "141",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 14,
+              "departure": {
+                "delay": 0,
+                "time": "1729968930"
+              },
+              "stopId": "31",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 16,
+              "departure": {
+                "delay": 0,
+                "time": "1729969110"
+              },
+              "stopId": "47",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 19,
+              "departure": {
+                "delay": 0,
+                "time": "1729969305"
+              },
+              "stopId": "169",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 22,
+              "departure": {
+                "delay": 0,
+                "time": "1729969575"
+              },
+              "stopId": "43",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 24,
+              "departure": {
+                "delay": 0,
+                "time": "1729969785"
+              },
+              "stopId": "104",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 27,
+              "departure": {
+                "delay": 0,
+                "time": "1729969980"
+              },
+              "stopId": "127",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 30,
+              "departure": {
+                "delay": 0,
+                "time": "1729970280"
+              },
+              "stopId": "35",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 34,
+              "departure": {
+                "delay": 0,
+                "time": "1729970625"
+              },
+              "stopId": "21",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 36,
+              "departure": {
+                "delay": 0,
+                "time": "1729970805"
+              },
+              "stopId": "24",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 40,
+              "departure": {
+                "delay": 0,
+                "time": "1729971120"
+              },
+              "stopId": "148",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 42,
+              "departure": {
+                "delay": 0,
+                "time": "1729971750"
+              },
+              "stopId": "137",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "5525"
+          }
+        }
+      },
+      {
+        "id": "6924",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1735962",
+            "startTime": "13:05:30",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "7",
+            "directionId": 0
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729962330"
+              },
+              "stopId": "34",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 5,
+              "departure": {
+                "delay": 113,
+                "time": "1729962750"
+              },
+              "stopId": "33",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 9,
+              "departure": {
+                "delay": 169,
+                "time": "1729963170"
+              },
+              "stopId": "92",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 12,
+              "departure": {
+                "delay": 180,
+                "time": "1729963410"
+              },
+              "stopId": "93",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 14,
+              "departure": {
+                "delay": 237,
+                "time": "1729963650"
+              },
+              "stopId": "30",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 16,
+              "departure": {
+                "delay": 267,
+                "time": "1729963890"
+              },
+              "stopId": "77",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 19,
+              "departure": {
+                "delay": 288,
+                "time": "1729964130"
+              },
+              "stopId": "27",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 22,
+              "departure": {
+                "delay": 326,
+                "time": "1729964550"
+              },
+              "stopId": "155",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 25,
+              "departure": {
+                "delay": 350,
+                "time": "1729964820"
+              },
+              "stopId": "146",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 27,
+              "departure": {
+                "delay": 343,
+                "time": "1729965000"
+              },
+              "stopId": "86",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 31,
+              "departure": {
+                "delay": 371,
+                "time": "1729965240"
+              },
+              "stopId": "80",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 33,
+              "departure": {
+                "delay": 407,
+                "time": "1729965450"
+              },
+              "stopId": "150",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 36,
+              "departure": {
+                "delay": 443,
+                "time": "1729965690"
+              },
+              "stopId": "61",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 38,
+              "departure": {
+                "delay": 444,
+                "time": "1729965840"
+              },
+              "stopId": "117",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 40,
+              "departure": {
+                "delay": 387,
+                "time": "1729966050"
+              },
+              "stopId": "23",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 42,
+              "departure": {
+                "delay": 387,
+                "time": "1729966200"
+              },
+              "stopId": "36",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 46,
+              "departure": {
+                "delay": 269,
+                "time": "1729966560"
+              },
+              "stopId": "111",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 54,
+              "departure": {
+                "delay": 211,
+                "time": "1729967130"
+              },
+              "stopId": "145",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 60,
+              "departure": {
+                "delay": 211,
+                "time": "1729967940"
+              },
+              "stopId": "109",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "6924"
+          }
+        }
+      },
+      {
+        "id": "6925",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1735964",
+            "startTime": "13:11:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "7",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729962660"
+              },
+              "stopId": "109",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 6,
+              "departure": {
+                "delay": 65,
+                "time": "1729963230"
+              },
+              "stopId": "145",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 14,
+              "departure": {
+                "delay": 129,
+                "time": "1729963830"
+              },
+              "stopId": "111",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 18,
+              "departure": {
+                "delay": 98,
+                "time": "1729964190"
+              },
+              "stopId": "36",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 20,
+              "departure": {
+                "delay": 99,
+                "time": "1729964340"
+              },
+              "stopId": "23",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 22,
+              "departure": {
+                "delay": 55,
+                "time": "1729964520"
+              },
+              "stopId": "117",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 24,
+              "departure": {
+                "delay": 57,
+                "time": "1729964670"
+              },
+              "stopId": "61",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 27,
+              "departure": {
+                "delay": 108,
+                "time": "1729964910"
+              },
+              "stopId": "150",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 29,
+              "departure": {
+                "delay": 87,
+                "time": "1729965090"
+              },
+              "stopId": "80",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 33,
+              "departure": {
+                "delay": 60,
+                "time": "1729965390"
+              },
+              "stopId": "86",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 35,
+              "departure": {
+                "delay": 33,
+                "time": "1729965630"
+              },
+              "stopId": "146",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 38,
+              "departure": {
+                "delay": 18,
+                "time": "1729966080"
+              },
+              "stopId": "155",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 41,
+              "departure": {
+                "delay": 0,
+                "time": "1729966530"
+              },
+              "stopId": "27",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 44,
+              "departure": {
+                "delay": 0,
+                "time": "1729966770"
+              },
+              "stopId": "77",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 46,
+              "departure": {
+                "delay": 0,
+                "time": "1729967070"
+              },
+              "stopId": "30",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 48,
+              "departure": {
+                "delay": 0,
+                "time": "1729967310"
+              },
+              "stopId": "93",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 51,
+              "departure": {
+                "delay": 0,
+                "time": "1729967580"
+              },
+              "stopId": "92",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 54,
+              "departure": {
+                "delay": 0,
+                "time": "1729968015"
+              },
+              "stopId": "96",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 56,
+              "departure": {
+                "delay": 0,
+                "time": "1729968150"
+              },
+              "stopId": "33",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 61,
+              "departure": {
+                "delay": 0,
+                "time": "1729968960"
+              },
+              "stopId": "34",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "6925"
+          }
+        }
+      },
+      {
+        "id": "6926",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1735965",
+            "startTime": "14:03:30",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "7",
+            "directionId": 0
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729965810"
+              },
+              "stopId": "34",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 5,
+              "departure": {
+                "delay": 161,
+                "time": "1729966230"
+              },
+              "stopId": "33",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 7,
+              "departure": {
+                "delay": 161,
+                "time": "1729966410"
+              },
+              "stopId": "96",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 10,
+              "departure": {
+                "delay": 161,
+                "time": "1729966770"
+              },
+              "stopId": "92",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 13,
+              "departure": {
+                "delay": 161,
+                "time": "1729967010"
+              },
+              "stopId": "93",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 15,
+              "departure": {
+                "delay": 161,
+                "time": "1729967250"
+              },
+              "stopId": "30",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 17,
+              "departure": {
+                "delay": 161,
+                "time": "1729967490"
+              },
+              "stopId": "77",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 20,
+              "departure": {
+                "delay": 161,
+                "time": "1729967730"
+              },
+              "stopId": "27",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 23,
+              "departure": {
+                "delay": 161,
+                "time": "1729968150"
+              },
+              "stopId": "155",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 26,
+              "departure": {
+                "delay": 161,
+                "time": "1729968420"
+              },
+              "stopId": "146",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 28,
+              "departure": {
+                "delay": 161,
+                "time": "1729968600"
+              },
+              "stopId": "86",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 32,
+              "departure": {
+                "delay": 161,
+                "time": "1729968840"
+              },
+              "stopId": "80",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 34,
+              "departure": {
+                "delay": 161,
+                "time": "1729969050"
+              },
+              "stopId": "150",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 36,
+              "departure": {
+                "delay": 161,
+                "time": "1729969230"
+              },
+              "stopId": "99",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 39,
+              "departure": {
+                "delay": 161,
+                "time": "1729969440"
+              },
+              "stopId": "117",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 41,
+              "departure": {
+                "delay": 161,
+                "time": "1729969650"
+              },
+              "stopId": "23",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 43,
+              "departure": {
+                "delay": 161,
+                "time": "1729969800"
+              },
+              "stopId": "36",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 47,
+              "departure": {
+                "delay": 161,
+                "time": "1729970160"
+              },
+              "stopId": "111",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 55,
+              "departure": {
+                "delay": 161,
+                "time": "1729970730"
+              },
+              "stopId": "145",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 61,
+              "departure": {
+                "delay": 161,
+                "time": "1729971540"
+              },
+              "stopId": "109",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "6926"
+          }
+        }
+      },
+      {
+        "id": "6927",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1735966",
+            "startTime": "14:11:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "7",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729966260"
+              },
+              "stopId": "109",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 6,
+              "departure": {
+                "delay": 0,
+                "time": "1729966830"
+              },
+              "stopId": "145",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 14,
+              "departure": {
+                "delay": 0,
+                "time": "1729967430"
+              },
+              "stopId": "111",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 18,
+              "departure": {
+                "delay": 0,
+                "time": "1729967790"
+              },
+              "stopId": "36",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 20,
+              "departure": {
+                "delay": 0,
+                "time": "1729967940"
+              },
+              "stopId": "23",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 22,
+              "departure": {
+                "delay": 0,
+                "time": "1729968120"
+              },
+              "stopId": "117",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 25,
+              "departure": {
+                "delay": 0,
+                "time": "1729968360"
+              },
+              "stopId": "99",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 27,
+              "departure": {
+                "delay": 0,
+                "time": "1729968510"
+              },
+              "stopId": "150",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 29,
+              "departure": {
+                "delay": 0,
+                "time": "1729968690"
+              },
+              "stopId": "80",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 33,
+              "departure": {
+                "delay": 0,
+                "time": "1729968990"
+              },
+              "stopId": "86",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 35,
+              "departure": {
+                "delay": 0,
+                "time": "1729969230"
+              },
+              "stopId": "146",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 38,
+              "departure": {
+                "delay": 0,
+                "time": "1729969680"
+              },
+              "stopId": "155",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 41,
+              "departure": {
+                "delay": 0,
+                "time": "1729970130"
+              },
+              "stopId": "27",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 44,
+              "departure": {
+                "delay": 0,
+                "time": "1729970370"
+              },
+              "stopId": "77",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 46,
+              "departure": {
+                "delay": 0,
+                "time": "1729970670"
+              },
+              "stopId": "30",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 48,
+              "departure": {
+                "delay": 0,
+                "time": "1729970910"
+              },
+              "stopId": "93",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 51,
+              "departure": {
+                "delay": 0,
+                "time": "1729971180"
+              },
+              "stopId": "92",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 55,
+              "departure": {
+                "delay": 0,
+                "time": "1729971630"
+              },
+              "stopId": "33",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 60,
+              "departure": {
+                "delay": 0,
+                "time": "1729972440"
+              },
+              "stopId": "34",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "6927"
+          }
+        }
+      },
+      {
+        "id": "7236",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736963",
+            "startTime": "13:14:30",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "10",
+            "directionId": 0
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 2,
+              "departure": {
+                "delay": 0,
+                "time": "1729962870"
+              },
+              "stopId": "74",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 7,
+              "departure": {
+                "delay": 0,
+                "time": "1729963305"
+              },
+              "stopId": "73",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 10,
+              "departure": {
+                "delay": 60,
+                "time": "1729963560"
+              },
+              "stopId": "138",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 13,
+              "departure": {
+                "delay": 105,
+                "time": "1729963905"
+              },
+              "stopId": "84",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 15,
+              "departure": {
+                "delay": 109,
+                "time": "1729964250"
+              },
+              "stopId": "59",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 18,
+              "departure": {
+                "delay": 112,
+                "time": "1729964490"
+              },
+              "stopId": "1",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 23,
+              "departure": {
+                "delay": 101,
+                "time": "1729965075"
+              },
+              "stopId": "149",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 27,
+              "departure": {
+                "delay": 178,
+                "time": "1729965360"
+              },
+              "stopId": "125",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 30,
+              "departure": {
+                "delay": 201,
+                "time": "1729965705"
+              },
+              "stopId": "174",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 32,
+              "departure": {
+                "delay": 182,
+                "time": "1729965885"
+              },
+              "stopId": "10",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 36,
+              "departure": {
+                "delay": 114,
+                "time": "1729966305"
+              },
+              "stopId": "134",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 38,
+              "departure": {
+                "delay": 114,
+                "time": "1729966545"
+              },
+              "stopId": "70",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 41,
+              "departure": {
+                "delay": 114,
+                "time": "1729966950"
+              },
+              "stopId": "40",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 45,
+              "departure": {
+                "delay": 114,
+                "time": "1729967250"
+              },
+              "stopId": "110",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 50,
+              "departure": {
+                "delay": 114,
+                "time": "1729967580"
+              },
+              "stopId": "112",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 58,
+              "departure": {
+                "delay": 114,
+                "time": "1729968030"
+              },
+              "stopId": "145",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 64,
+              "departure": {
+                "delay": 114,
+                "time": "1729968780"
+              },
+              "stopId": "109",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "7236"
+          }
+        }
+      },
+      {
+        "id": "7240",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736965",
+            "startTime": "14:04:30",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "10",
+            "directionId": 0
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 2,
+              "departure": {
+                "delay": 0,
+                "time": "1729965870"
+              },
+              "stopId": "74",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 7,
+              "departure": {
+                "delay": 0,
+                "time": "1729966305"
+              },
+              "stopId": "73",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 10,
+              "departure": {
+                "delay": 0,
+                "time": "1729966560"
+              },
+              "stopId": "138",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 13,
+              "departure": {
+                "delay": 0,
+                "time": "1729966905"
+              },
+              "stopId": "84",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 15,
+              "departure": {
+                "delay": 0,
+                "time": "1729967250"
+              },
+              "stopId": "59",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 18,
+              "departure": {
+                "delay": 0,
+                "time": "1729967490"
+              },
+              "stopId": "1",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 23,
+              "departure": {
+                "delay": 0,
+                "time": "1729968075"
+              },
+              "stopId": "149",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 27,
+              "departure": {
+                "delay": 0,
+                "time": "1729968360"
+              },
+              "stopId": "125",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 30,
+              "departure": {
+                "delay": 0,
+                "time": "1729968705"
+              },
+              "stopId": "174",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 35,
+              "departure": {
+                "delay": 0,
+                "time": "1729969215"
+              },
+              "stopId": "134",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 37,
+              "departure": {
+                "delay": 0,
+                "time": "1729969455"
+              },
+              "stopId": "70",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 40,
+              "departure": {
+                "delay": 0,
+                "time": "1729969860"
+              },
+              "stopId": "40",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 44,
+              "departure": {
+                "delay": 0,
+                "time": "1729970145"
+              },
+              "stopId": "110",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 49,
+              "departure": {
+                "delay": 0,
+                "time": "1729970520"
+              },
+              "stopId": "112",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 57,
+              "departure": {
+                "delay": 0,
+                "time": "1729970970"
+              },
+              "stopId": "145",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 63,
+              "departure": {
+                "delay": 0,
+                "time": "1729971720"
+              },
+              "stopId": "109",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "7240"
+          }
+        }
+      },
+      {
+        "id": "7245",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1737151",
+            "startTime": "13:07:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "10",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729962420"
+              },
+              "stopId": "109",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 6,
+              "departure": {
+                "delay": 84,
+                "time": "1729962990"
+              },
+              "stopId": "145",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 14,
+              "departure": {
+                "delay": 150,
+                "time": "1729963545"
+              },
+              "stopId": "112",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 19,
+              "departure": {
+                "delay": 224,
+                "time": "1729963905"
+              },
+              "stopId": "110",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 22,
+              "departure": {
+                "delay": 297,
+                "time": "1729964100"
+              },
+              "stopId": "114",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 24,
+              "departure": {
+                "delay": 345,
+                "time": "1729964280"
+              },
+              "stopId": "40",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 27,
+              "departure": {
+                "delay": 368,
+                "time": "1729964595"
+              },
+              "stopId": "70",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 29,
+              "departure": {
+                "delay": 424,
+                "time": "1729964820"
+              },
+              "stopId": "134",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 33,
+              "departure": {
+                "delay": 476,
+                "time": "1729965180"
+              },
+              "stopId": "10",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 35,
+              "departure": {
+                "delay": 552,
+                "time": "1729965375"
+              },
+              "stopId": "174",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 38,
+              "departure": {
+                "delay": 551,
+                "time": "1729965720"
+              },
+              "stopId": "125",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 42,
+              "departure": {
+                "delay": 560,
+                "time": "1729966020"
+              },
+              "stopId": "149",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 47,
+              "departure": {
+                "delay": 395,
+                "time": "1729966545"
+              },
+              "stopId": "1",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 50,
+              "departure": {
+                "delay": 330,
+                "time": "1729966770"
+              },
+              "stopId": "59",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 52,
+              "departure": {
+                "delay": 217,
+                "time": "1729967115"
+              },
+              "stopId": "84",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 55,
+              "departure": {
+                "delay": 138,
+                "time": "1729967475"
+              },
+              "stopId": "138",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 58,
+              "departure": {
+                "delay": 113,
+                "time": "1729967715"
+              },
+              "stopId": "73",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 63,
+              "departure": {
+                "delay": 0,
+                "time": "1729968450"
+              },
+              "stopId": "74",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "7245"
+          }
+        }
+      },
+      {
+        "id": "7249",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736968",
+            "startTime": "14:07:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "10",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729966020"
+              },
+              "stopId": "109",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 6,
+              "departure": {
+                "delay": 0,
+                "time": "1729966590"
+              },
+              "stopId": "145",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 14,
+              "departure": {
+                "delay": 0,
+                "time": "1729967145"
+              },
+              "stopId": "112",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 19,
+              "departure": {
+                "delay": 0,
+                "time": "1729967505"
+              },
+              "stopId": "110",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 23,
+              "departure": {
+                "delay": 0,
+                "time": "1729967805"
+              },
+              "stopId": "40",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 26,
+              "departure": {
+                "delay": 0,
+                "time": "1729968135"
+              },
+              "stopId": "70",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 28,
+              "departure": {
+                "delay": 0,
+                "time": "1729968375"
+              },
+              "stopId": "134",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 32,
+              "departure": {
+                "delay": 0,
+                "time": "1729968735"
+              },
+              "stopId": "10",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 34,
+              "departure": {
+                "delay": 0,
+                "time": "1729968930"
+              },
+              "stopId": "174",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 37,
+              "departure": {
+                "delay": 0,
+                "time": "1729969290"
+              },
+              "stopId": "125",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 41,
+              "departure": {
+                "delay": 0,
+                "time": "1729969605"
+              },
+              "stopId": "149",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 46,
+              "departure": {
+                "delay": 0,
+                "time": "1729970130"
+              },
+              "stopId": "1",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 49,
+              "departure": {
+                "delay": 0,
+                "time": "1729970355"
+              },
+              "stopId": "59",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 51,
+              "departure": {
+                "delay": 0,
+                "time": "1729970700"
+              },
+              "stopId": "84",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 54,
+              "departure": {
+                "delay": 0,
+                "time": "1729971045"
+              },
+              "stopId": "138",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 57,
+              "departure": {
+                "delay": 0,
+                "time": "1729971285"
+              },
+              "stopId": "73",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 62,
+              "departure": {
+                "delay": 0,
+                "time": "1729971930"
+              },
+              "stopId": "74",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "7249"
+          }
+        }
+      },
+      {
+        "id": "7836",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1735995",
+            "startTime": "12:57:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "9",
+            "directionId": 0
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 6,
+              "departure": {
+                "delay": 759,
+                "time": "1729961820"
+              },
+              "stopId": "158",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 10,
+              "departure": {
+                "delay": 459,
+                "time": "1729962210"
+              },
+              "stopId": "55",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 12,
+              "departure": {
+                "delay": 507,
+                "time": "1729962630"
+              },
+              "stopId": "132",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 19,
+              "departure": {
+                "delay": 406,
+                "time": "1729963590"
+              },
+              "stopId": "106",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 21,
+              "departure": {
+                "delay": 461,
+                "time": "1729963845"
+              },
+              "stopId": "37",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 24,
+              "departure": {
+                "delay": 438,
+                "time": "1729964145"
+              },
+              "stopId": "83",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 27,
+              "departure": {
+                "delay": 495,
+                "time": "1729964430"
+              },
+              "stopId": "82",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 32,
+              "departure": {
+                "delay": 446,
+                "time": "1729964835"
+              },
+              "stopId": "134",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 34,
+              "departure": {
+                "delay": 535,
+                "time": "1729965075"
+              },
+              "stopId": "70",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 37,
+              "departure": {
+                "delay": 522,
+                "time": "1729965480"
+              },
+              "stopId": "40",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 39,
+              "departure": {
+                "delay": 508,
+                "time": "1729965660"
+              },
+              "stopId": "114",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 42,
+              "departure": {
+                "delay": 443,
+                "time": "1729965885"
+              },
+              "stopId": "110",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 47,
+              "departure": {
+                "delay": 443,
+                "time": "1729966245"
+              },
+              "stopId": "112",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 55,
+              "departure": {
+                "delay": 443,
+                "time": "1729966725"
+              },
+              "stopId": "145",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 61,
+              "departure": {
+                "delay": 443,
+                "time": "1729968960"
+              },
+              "stopId": "109",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "7836"
+          }
+        }
+      },
+      {
+        "id": "7838",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1735996",
+            "startTime": "13:18:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "9",
+            "directionId": 0
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729963080"
+              },
+              "stopId": "158",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 4,
+              "departure": {
+                "delay": 23,
+                "time": "1729963470"
+              },
+              "stopId": "55",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 6,
+              "departure": {
+                "delay": 20,
+                "time": "1729963890"
+              },
+              "stopId": "132",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 13,
+              "departure": {
+                "delay": 228,
+                "time": "1729964895"
+              },
+              "stopId": "106",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 15,
+              "departure": {
+                "delay": 527,
+                "time": "1729965180"
+              },
+              "stopId": "37",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 18,
+              "departure": {
+                "delay": 209,
+                "time": "1729965510"
+              },
+              "stopId": "83",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 21,
+              "departure": {
+                "delay": 219,
+                "time": "1729965810"
+              },
+              "stopId": "82",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 30,
+              "departure": {
+                "delay": 153,
+                "time": "1729966710"
+              },
+              "stopId": "110",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 35,
+              "departure": {
+                "delay": 153,
+                "time": "1729967040"
+              },
+              "stopId": "112",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 43,
+              "departure": {
+                "delay": 153,
+                "time": "1729967490"
+              },
+              "stopId": "145",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 49,
+              "departure": {
+                "delay": 153,
+                "time": "1729968240"
+              },
+              "stopId": "109",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "7838"
+          }
+        }
+      },
+      {
+        "id": "7840",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736696",
+            "startTime": "13:58:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "9",
+            "directionId": 0
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729965480"
+              },
+              "stopId": "158",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 4,
+              "departure": {
+                "delay": 93,
+                "time": "1729965870"
+              },
+              "stopId": "55",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 6,
+              "departure": {
+                "delay": 79,
+                "time": "1729966290"
+              },
+              "stopId": "132",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 13,
+              "departure": {
+                "delay": 0,
+                "time": "1729967250"
+              },
+              "stopId": "106",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 15,
+              "departure": {
+                "delay": 0,
+                "time": "1729967505"
+              },
+              "stopId": "37",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 18,
+              "departure": {
+                "delay": 0,
+                "time": "1729967805"
+              },
+              "stopId": "83",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 21,
+              "departure": {
+                "delay": 0,
+                "time": "1729968090"
+              },
+              "stopId": "82",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 26,
+              "departure": {
+                "delay": 0,
+                "time": "1729968495"
+              },
+              "stopId": "134",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 28,
+              "departure": {
+                "delay": 0,
+                "time": "1729968735"
+              },
+              "stopId": "70",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 31,
+              "departure": {
+                "delay": 0,
+                "time": "1729969140"
+              },
+              "stopId": "40",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 33,
+              "departure": {
+                "delay": 0,
+                "time": "1729969335"
+              },
+              "stopId": "114",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 36,
+              "departure": {
+                "delay": 0,
+                "time": "1729969560"
+              },
+              "stopId": "110",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 41,
+              "departure": {
+                "delay": 0,
+                "time": "1729969920"
+              },
+              "stopId": "112",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 49,
+              "departure": {
+                "delay": 0,
+                "time": "1729970400"
+              },
+              "stopId": "145",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 55,
+              "departure": {
+                "delay": 0,
+                "time": "1729971240"
+              },
+              "stopId": "109",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "7840"
+          }
+        }
+      },
+      {
+        "id": "7845",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1737624",
+            "startTime": "13:14:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "9",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729962840"
+              },
+              "stopId": "109",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 6,
+              "departure": {
+                "delay": 96,
+                "time": "1729963410"
+              },
+              "stopId": "145",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 14,
+              "departure": {
+                "delay": 179,
+                "time": "1729963965"
+              },
+              "stopId": "112",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 19,
+              "departure": {
+                "delay": 172,
+                "time": "1729964325"
+              },
+              "stopId": "110",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 23,
+              "departure": {
+                "delay": 272,
+                "time": "1729964625"
+              },
+              "stopId": "40",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 26,
+              "departure": {
+                "delay": 284,
+                "time": "1729964955"
+              },
+              "stopId": "70",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 28,
+              "departure": {
+                "delay": 368,
+                "time": "1729965195"
+              },
+              "stopId": "134",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 33,
+              "departure": {
+                "delay": 304,
+                "time": "1729965720"
+              },
+              "stopId": "82",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 36,
+              "departure": {
+                "delay": 339,
+                "time": "1729965990"
+              },
+              "stopId": "83",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 39,
+              "departure": {
+                "delay": 223,
+                "time": "1729966290"
+              },
+              "stopId": "37",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 41,
+              "departure": {
+                "delay": 201,
+                "time": "1729966545"
+              },
+              "stopId": "106",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 48,
+              "departure": {
+                "delay": 0,
+                "time": "1729967400"
+              },
+              "stopId": "132",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 50,
+              "departure": {
+                "delay": 0,
+                "time": "1729967805"
+              },
+              "stopId": "55",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 54,
+              "departure": {
+                "delay": 0,
+                "time": "1729968450"
+              },
+              "stopId": "158",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "7845"
+          }
+        }
+      },
+      {
+        "id": "7847",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1735999",
+            "startTime": "13:55:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "9",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729965300"
+              },
+              "stopId": "109",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 6,
+              "departure": {
+                "delay": 12,
+                "time": "1729965930"
+              },
+              "stopId": "145",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 14,
+              "departure": {
+                "delay": 0,
+                "time": "1729966500"
+              },
+              "stopId": "112",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 19,
+              "departure": {
+                "delay": 0,
+                "time": "1729966860"
+              },
+              "stopId": "110",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 29,
+              "departure": {
+                "delay": 0,
+                "time": "1729967685"
+              },
+              "stopId": "82",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 32,
+              "departure": {
+                "delay": 0,
+                "time": "1729967955"
+              },
+              "stopId": "83",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 35,
+              "departure": {
+                "delay": 0,
+                "time": "1729968255"
+              },
+              "stopId": "37",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 37,
+              "departure": {
+                "delay": 0,
+                "time": "1729968570"
+              },
+              "stopId": "106",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 44,
+              "departure": {
+                "delay": 0,
+                "time": "1729969605"
+              },
+              "stopId": "132",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 46,
+              "departure": {
+                "delay": 0,
+                "time": "1729970010"
+              },
+              "stopId": "55",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 50,
+              "departure": {
+                "delay": 0,
+                "time": "1729971090"
+              },
+              "stopId": "158",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "7847"
+          }
+        }
+      },
+      {
+        "id": "7849",
+        "tripUpdate": {
+          "trip": {
+            "tripId": "1736216",
+            "startTime": "14:14:00",
+            "startDate": "20241026",
+            "scheduleRelationship": "SCHEDULED",
+            "routeId": "9",
+            "directionId": 1
+          },
+          "stopTimeUpdate": [
+            {
+              "stopSequence": 1,
+              "departure": {
+                "delay": 0,
+                "time": "1729966440"
+              },
+              "stopId": "109",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 6,
+              "departure": {
+                "delay": 0,
+                "time": "1729967010"
+              },
+              "stopId": "145",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 14,
+              "departure": {
+                "delay": 0,
+                "time": "1729967535"
+              },
+              "stopId": "112",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 19,
+              "departure": {
+                "delay": 0,
+                "time": "1729967895"
+              },
+              "stopId": "110",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 22,
+              "departure": {
+                "delay": 0,
+                "time": "1729968090"
+              },
+              "stopId": "114",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 24,
+              "departure": {
+                "delay": 0,
+                "time": "1729968270"
+              },
+              "stopId": "40",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 27,
+              "departure": {
+                "delay": 0,
+                "time": "1729968585"
+              },
+              "stopId": "70",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 29,
+              "departure": {
+                "delay": 0,
+                "time": "1729968810"
+              },
+              "stopId": "134",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 34,
+              "departure": {
+                "delay": 0,
+                "time": "1729969185"
+              },
+              "stopId": "82",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 37,
+              "departure": {
+                "delay": 0,
+                "time": "1729969455"
+              },
+              "stopId": "83",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 40,
+              "departure": {
+                "delay": 0,
+                "time": "1729969755"
+              },
+              "stopId": "37",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 42,
+              "departure": {
+                "delay": 0,
+                "time": "1729970025"
+              },
+              "stopId": "106",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 49,
+              "departure": {
+                "delay": 0,
+                "time": "1729970910"
+              },
+              "stopId": "132",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 51,
+              "departure": {
+                "delay": 0,
+                "time": "1729971315"
+              },
+              "stopId": "55",
+              "scheduleRelationship": "SCHEDULED"
+            },
+            {
+              "stopSequence": 55,
+              "departure": {
+                "delay": 0,
+                "time": "1729971990"
+              },
+              "stopId": "158",
+              "scheduleRelationship": "SCHEDULED"
+            }
+          ],
+          "vehicle": {
+            "id": "7849"
+          }
+        }
+      }
+    ]
+  }
