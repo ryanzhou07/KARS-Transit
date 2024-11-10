@@ -15,6 +15,7 @@
         crossorigin="anonymous"
     />
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
     <style>
         body {
             overflow-x: hidden; /* Prevent horizontal scroll */
@@ -181,28 +182,64 @@
     </div>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" crossorigin="anonymous"></script>
     <script>
+        const socket = io(); // Connect to the SocketIO server
+
+        // Listen for connection event
+        socket.on('connect', function() {
+            console.log('Connected to SocketIO server');
+        });
+
+        // Listen for map updates from the server
+        socket.on('map', function(data) {
+            // Update the map with the new data
+            $('#map').html(data.map); // Assuming data.map contains the new map HTML
+        });
+
+        // Handle form submission
+        $('form').on('submit', function(event) {
+            event.preventDefault(); // Prevent the default form submission
+            const selectedOption = $('#route').val(); // Get the selected route
+
+            // Emit an event to the server to start map updates
+            socket.emit('start_map_updates', selectedOption);
+        });
+    </script>
+    <script>
         const sidebar = document.querySelector('.sidebar');
         const sidebarToggler = document.querySelector('.sidebar-toggler');
         const mainContent = document.querySelector('.main-content');
-
+        const submitButton= document.getElementById('submitButton');
         sidebarToggler.addEventListener('click', () => {
             sidebar.classList.toggle('sidebar-closed');
-            const submitButton= document.getElementById('submitButton');
+            
             // Adjust the main content margin accordingly
             if (sidebar.classList.contains('sidebar-closed')) {
                 mainContent.style.marginLeft = '60px'; // Adjust margin when sidebar is closed
                 submitButton.style.display="none";
             } else {
                 mainContent.style.marginLeft = '250px'; // Reset margin when sidebar is open
-                document.getElementById("a");
-                a.style.position="absolute";
-                a.style.right="9999px";
                 submitButton.style.display="incline-block";
             }
        
     });
     </script>
-    
+    <script>
+        socket.on('map_update', function(data) {
+            $('#map').html(data.map); // Update the map container with the new map HTML
+        });
+        
+        $('form').on('submit', function(event) {
+            event.preventDefault(); // Prevent the default form submission
+            const selectedOption = $('#route').val(); // Get selected route
+        
+            // This will automatically start the background task on the server side
+            socket.emit('start_map_updates', selectedOption);
+            
+            // Optionally submit the form via AJAX if needed
+            // $.post($(this).attr('action'), $(this).serialize());
+        });
+        
+    </script>
     <!--
     <script>
         setInterval(function() {

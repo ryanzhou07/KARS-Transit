@@ -3,7 +3,8 @@ from datetime import timedelta
 import datetime as dt
 import csv
 import time
-
+import copy
+from threading import Lock
 # from folium import plugins as p
 
 
@@ -116,9 +117,11 @@ lineCodes = {
     "17": ["RL"],
 }
 
-
 def save_map():
-    return m.get_root().render()
+    
+        # Create a copy of the map before rendering
+    map_copy = copy.deepcopy(m)
+    return map_copy.get_root().render()
 
 
 def displayRoute(route_id):
@@ -146,7 +149,7 @@ def displayRoute(route_id):
                 icon=folium.Icon(icon="train"),
                 color="red",
                 fill=True,
-                popup=f"Route ID: {trip.get("routeId")}<br>Train ID: {train_id}<br>Occupancy: {occupancy}",
+                popup=f"Route ID: {trip.get('routeId')}<br>Train ID: {train_id}<br>Occupancy: {occupancy}",
             ).add_to(m)
 
     line_code = lineCodes.get(route_id, [])
@@ -214,7 +217,7 @@ def displayRoute(route_id):
                             station.get("lon"),
                         ],
                         icon=folium.Icon(color="blue", icon="info-sign"),
-                        popup=f"Station: {station.get("name")}\nETA Next Train: "
+                        popup=f"Station: {station.get('name')}\nETA Next Train: "
                         + timeNow.strftime("%H:%M"),
                     ).add_to(m)
 
