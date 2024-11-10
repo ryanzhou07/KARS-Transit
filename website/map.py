@@ -54,7 +54,7 @@ m = folium.Map(
 )
 # move zoom control to top right
 # m.add_child(ZoomControl(position="topright"))
-m.save("website/templates/map.html")
+m.save("map.html")
 
 # create time variable for later
 change_time = 0
