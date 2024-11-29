@@ -16,7 +16,7 @@ import zipfile
 import io
 import os
 
-API_KEY = "638655808933012672"
+API_KEY = "Enter API KEY"
 
 
 # Function to get and convert GTFS-RT data
